@@ -7,5 +7,5 @@ Jupyter Notebook was the selected implementation environment.
 ## Greek Parliament Proceedings
 *greek_parliament_proceedings.ipynb*
 
-Can one tell the political party a parliament member belongs to only by paying attention to the way they speak?
+Can one tell the political party a parliament member belongs to, only by paying attention to the way they speak?
 This project attempts to answer this question by trying out different machine learning techniques, namely Naive Bayes Classification, Decision Trees and  Neural Networks.

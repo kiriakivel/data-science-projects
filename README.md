@@ -16,6 +16,11 @@ These are some of the questions examined by this project, whose aim is to provid
 Replication of the findings of the book "Why Civil Resistance Works" by Erical Chenoweth and Maria J. Stephan. The book studies the effectiveness of nonviolent campaigns compared to violent campaigns.
 An opportunity to familiarize with the **statsmodels** library and handling statistics with Python
 
+## Rosetta Stone of Human Capital
+*rosetta_stone_human_capital.ipynb*
+
+Another practice project with statistics in Python. It examines and replicates the study called 'A Rosetta Stone for Human Capital', by Dev Patel and Justin Sandefur. The study investigates the diferences in skills across countries.
+
 ## Greek Parliament Proceedings
 *greek_parliament_proceedings.ipynb*
 
